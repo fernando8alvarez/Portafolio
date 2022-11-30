@@ -50,7 +50,7 @@ function App() {
         <div class="flex gap-3">
           <a href="https://www.linkedin.com/in/luis-fernando-alvarez-leccia-3a5b7b151/" title="Click para ir a mi linkedin"><img src={linkedin} class="w-7" alt="" /></a>
           <a href="https://github.com/fernando8alvarez" title="Click para ir a mi github"><img src={github} class="w-7" alt="" /></a>
-          <a href="https://drive.google.com/file/d/1MVD7VAzOYuL-TZRn9kve0NGorVS3Nc8T/view?usp=sharing" title="Click para descargar mi CV"><img src={cv} class="w-7" alt="" /></a>
+          <a href="https://drive.google.com/file/d/1XskrDGNAtJ9QR-OQ9rskPD0qF1AWcjui/view?usp=sharing" title="Click para descargar mi CV"><img src={cv} class="w-7" alt="" /></a>
         </div>
         <p class="font-Abel text-sm text-slate-50">Copyright © | Coded by Luis Fernando Alvarez</p>
       </div>
