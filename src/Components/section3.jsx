@@ -21,6 +21,8 @@ import scrum from '../imgs/SCRUM.png';
 import canva from '../imgs/canva.png';
 import sweetalert from '../imgs/sweetalert2.png';
 import wsMockitt from '../imgs/wondershareMockitt.png';
+import emailJS from '../imgs/emailJS.png';
+
 
 const Section3 = () => {
 
@@ -46,7 +48,8 @@ const Section3 = () => {
         { name: "SCRUM", img: scrum },
         { name: "Canva", img: canva },
         { name: "SweetAlert2", img: sweetalert },
-        { name: "WS Mockitt", img: wsMockitt }
+        { name: "WS Mockitt", img: wsMockitt },
+        { name: "Email JS", img: emailJS }
     ];
 
     return (
