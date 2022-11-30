@@ -27,7 +27,7 @@ const Section5 = () => {
             title: "Portafolio",
             summary: "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
             demo: "#top",
-            repo: "#top"
+            repo: "https://github.com/fernando8alvarez/Portafolio"
         }
     ]
 
@@ -51,13 +51,13 @@ const Section5 = () => {
                             </div>
                             <div class="flex gap-5 justify-center items-end pb-8 h-full">
                                 <a href={el.demo}>
-                                    <button class="flex gap-2 items-center font-Abel text-xl px-4 py-1 rounded-2xl border-2 border-stone-600 text-slate-50 hover:bg-stone-500">
+                                    <button class="flex gap-2 items-center font-Abel text-xl px-4 py-1 rounded-2xl border-2 border-stone-600 text-slate-50 hover:bg-stone-500" title="Click para ir a la demo">
                                         <img src={ojo} alt="ojo" class="w-6" />
                                         <div>Demo</div>
                                     </button>
                                 </a>
                                 <a href={el.repo}>
-                                    <button class="flex gap-2 items-center font-Abel text-xl px-4 py-1 rounded-2xl border-2 border-stone-600 text-slate-50 hover:bg-stone-500">
+                                    <button class="flex gap-2 items-center font-Abel text-xl px-4 py-1 rounded-2xl border-2 border-stone-600 text-slate-50 hover:bg-stone-500" title="Click para ir al repositorio">
                                         <img src={githito} alt="githito" class="w-6" />
                                         <div>Repo</div>
                                     </button>
