@@ -20,7 +20,7 @@ const Section4 = () => {
                 </div>
                 <div class="flex items-center justify-center flex-col bg-stone-800 p-5 lg:p-10 rounded-3xl shadow-lg shadow-black">
                     <img src={usb} alt="usb" class="w-60 sm:w-60 md:w-60 lg:w-64 my-5 rounded-2xl sm:my-2 md:my-4 lg:my-4 xl:mt-5 mb-2 sm:mb-4 lg:mb-5" />
-                    <p class="font-PT text-xl sm:text-lg md:text-xl lg:text-xl text-amber-400">Ingeriería de Producción</p>
+                    <p class="font-PT text-xl sm:text-lg md:text-xl lg:text-xl text-amber-400">Ingeniería de Producción</p>
                     <p class="font-Abel text-xl text-gray-200">2018 - presente</p>
                 </div>
             </div>
