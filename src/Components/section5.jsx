@@ -50,13 +50,13 @@ const Section5 = () => {
                                 </p>
                             </div>
                             <div class="flex gap-5 justify-center items-end pb-8 h-full">
-                                <a href={el.demo}>
+                                <a href={el.demo} target="_blank" rel="noreferrer noopener">
                                     <button class="flex gap-2 items-center font-Abel text-xl px-4 py-1 rounded-2xl border-2 border-stone-600 text-slate-50 hover:bg-stone-500" title="Click para ir a la demo">
                                         <img src={ojo} alt="ojo" class="w-6" />
                                         <div>Demo</div>
                                     </button>
                                 </a>
-                                <a href={el.repo}>
+                                <a href={el.repo} target="_blank" rel="noreferrer noopener">
                                     <button class="flex gap-2 items-center font-Abel text-xl px-4 py-1 rounded-2xl border-2 border-stone-600 text-slate-50 hover:bg-stone-500" title="Click para ir al repositorio">
                                         <img src={githito} alt="githito" class="w-6" />
                                         <div>Repo</div>
